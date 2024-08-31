@@ -1,0 +1,7 @@
+#Ignorando/Não versionando o arquivo .env
+.env
+#Ignorando/Não versionando o arquivo package-lock.json
+package-lock.json
+
+#Ignorando/Não versionando a pasta node_modules/
+node_modules/
